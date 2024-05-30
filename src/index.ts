@@ -1,5 +1,5 @@
 // Importing the venues data
-import venues from '../data/venues.json';
+import venues from './data/venues.json';
 
 interface Venue {
     id: number;
